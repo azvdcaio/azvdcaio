@@ -3,7 +3,7 @@
 ## Sobre
 
 Estudante de Engenharia de Software no IBMEC-RJ.
-Construo ferramentas com propósito — do desenvolvimento web à análise forense.
+Aprendendo em público, cada commit é um passo.
 
 ## Tecnologias
 

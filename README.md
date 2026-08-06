@@ -33,5 +33,3 @@ Aprendendo em público, cada commit é um passo.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azvdcaio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azvdcaio&layout=compact&theme=tokyonight&hide_border=true)
-
-![Snake](https://raw.githubusercontent.com/azvdcaio/azvdcaio/output/github-contribution-grid-snake-dark.svg)

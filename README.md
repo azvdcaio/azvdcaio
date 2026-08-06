@@ -30,6 +30,8 @@ Aprendendo em público, cada commit é um passo.
 
 ## Atividade
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azvdcaio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azvdcaio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azvdcaio&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azvdcaio&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com/?user=azvdcaio&theme=tokyonight&hide_border=true)

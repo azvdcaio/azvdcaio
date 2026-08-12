@@ -75,6 +75,7 @@ Currently building purposeful tools at the intersection of Software Engineering 
 |---|---|---|
 | [exif-extractor](https://github.com/azvdcaio/exif-extractor) | Forensic metadata extractor for images | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [hash-calculator](https://github.com/azvdcaio/hash-calculator) | Calculates and verifies forensic file hashes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [file-info-inspector](https://github.com/azvdcaio/file-info-inspector) | Extracts complete file identity for forensic documentation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 </div>
 
 ---
